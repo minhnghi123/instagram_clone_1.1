@@ -1,0 +1,24 @@
+.homePage {
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    display: flex;
+
+}
+
+.leftSideHome {
+    padding: 25px 10px;
+    flex: 0.15;
+  
+}
+
+.midSideHome {
+    flex-direction: column;
+    flex: 0.6;
+    border-left: 1px solid rgb(219,219,219);
+}
+
+.rightSide {
+    flex: 0.25;
+}
